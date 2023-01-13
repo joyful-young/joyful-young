@@ -1,4 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaeyoung%20Park&fontSize=90)
+
 ### Hi there 👋
+
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joyful-young&&show_icons=true&theme=dark)
+
+
 
 <!--
 **joyful-young/joyful-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
