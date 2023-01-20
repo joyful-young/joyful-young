@@ -10,7 +10,7 @@
   <h3>📚 Tech Stack 📚</h3>
   <h4>😁 Tech that I can use skillfully</h4>
   <br>
-  <h4>🌱 Currently Studying</h4>
+  <h4>🌱 Currently Learning</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
