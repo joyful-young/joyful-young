@@ -35,10 +35,11 @@
   <br>
 
 <!--![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joyful-young&&show_icons=true&theme=nord)-->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful-young&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful-young&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joyful-young&theme=nord)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyful-young)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
