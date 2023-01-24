@@ -34,7 +34,8 @@
   </p>
   <br>
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joyful-young&&show_icons=true&theme=nord)
+<!--![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joyful-young&&show_icons=true&theme=nord)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful-young)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joyful-young&theme=nord)
 -->
