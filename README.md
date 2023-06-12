@@ -8,21 +8,25 @@
   </p>
   <br>
   <h3>📚 Tech Stack 📚</h3>
-  <h4>😁 Tech that I can use skillfully</h4>
-  <br>
-  <h4>🌱 Currently Learning</h4>
+  <h4>😁 Tech that I can use</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp<br/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp
+  </p>
+  <br>
+  <h4>🌱 Currently Learning</h4>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
   </p>
   <br>
   <h4>⭐ Interested In</h4>
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>&nbsp
   </p>
@@ -38,11 +42,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=joyful-young&count_private=true&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!--
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joyful-young&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyful-young&layout=compact&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyful-young&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
--->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oortcloud)](https://solved.ac/oortcloud)
 
