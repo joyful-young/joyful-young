@@ -10,6 +10,7 @@
     <br>
     <p>💻<strong>2023.01-2023.07</strong> SSAFY 9기 1학기 과정 수료</p>
     <p>💼<strong>2023.07-2024.10</strong> 교육 도메인 회사에서 CAS(대수학 연산 시스템) 연구 및 개발</p>
+    <a href="https://www.notion.so/112f3c2f430980c4836fee75a8ba42de?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://www.notion.so/112f3c2f430980c4836fee75a8ba42de?pvs=4"/></a>&nbsp
   </details>
   <br>
   <h3>📚 Tech Stack 📚</h3>
